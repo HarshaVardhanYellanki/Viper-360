@@ -12,6 +12,8 @@ Viper360's primary focus is on providing a stress-busting experience, offering p
 Developed with C# on the Unity game engine, Viper360 benefits from the robust capabilities and tools offered by the engine. This allows for efficient development, seamless integration of assets, and the implementation of engaging features that enhance the overall gameplay experience.
 We have additional features where the player can consume few potions so that functions like speed boost, zoom out and 5x points can be achieved. Also, there are barriers where the player get disqualified when made contact with.
 
+Our game is not like traditional snake game. Players with our Viper can rotate in 360° and can play upto infinite time till viper collides with margin in huge arena space.
+
 In summary, Viper360 is an arcade game developed using C# on the Unity game engine. It is specifically designed to serve as a stress buster, providing users with an immersive and entertaining experience. By offering an engaging gameplay environment, Viper360 aims to help players unwind, have fun, and alleviate stress.
 
 # outputs
